@@ -26,7 +26,7 @@
 
 
 * Maka hasilnya akan seperti berikut.
-![struktur](langkah1.png)
+![struktur](1.png)
 
 ## LANGKAH 2
 * Membuat 2 buah paragraf dan atur atribut paragraf (Rata Kiri / Rata Kanan / Rata Tengah / Sama Rata)
@@ -74,7 +74,7 @@ html
 <h3>Menambahkan Gambar</h3>
 
 <!-- menambahkan gambar pada dokumen -->
-<img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
+<img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
 
 * Maka hasilnya akan seperti berikut.
 ![image](Image.png)
@@ -116,7 +116,7 @@ html
 
 
 * Maka hasilnya akan seperti berikut.
-![Hyper_link2](halam2.png)
+![Hyper_link2](2.png)
 
 # Jawab Pertanyaan Berikut
 
